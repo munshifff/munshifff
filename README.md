@@ -2,6 +2,13 @@
 <h3 align="center">A Passionate Developer with skills in the area of Programming, AI and etc..</h3>
 
 
+<h3 align="left">
+  <ul>
+    <li>🌱 I’m currently learning AI.</li>   
+    <li>📫 How to reach me: munshifmuhajireen@gmail.com</li>
+    <li>⚡ Culér.</li>
+  </ul>
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
