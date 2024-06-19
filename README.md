@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Munshif Muhajireen</h1>
-<h3 align="center">A Passionate Developer with skills in the area of Programming, AI and etc..</h3>
+<h1 align="center">Hi 👋, I'm Munshif </h1>
+<h3 align="center">A Passionate Developer.</h3>
 
 
 <p align="left">
