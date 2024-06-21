@@ -4,7 +4,6 @@
 
 <p align="left">
   <ul>
-    <li>🌱 I’m currently learning about AI and Machine Learning.</li>   
     <li>📫 How to reach me: <a href="munshifmuhajireen@gmail.com">munshifmuhajireen@gmail.com</a> </li>
     <li>⚡ Culér</li>
   </ul>
