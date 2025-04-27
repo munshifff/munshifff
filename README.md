@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Munshif </h1>
-<h3 align="center">An Intern in ML & Data Science</h3>
+<h3 align="center">I'm an AI/ML Enthusiast</h3>
+<h6>My mission is to bridge the gap between AI innovation and real-world impact—transforming businesses with practical, scalable machine learning solutions. I build intelligent systems that deliver measurable results, not just theoretical promise. Explore my GitHub to see AI in action, solving real problems with code that drives change."</h6>
 
 <p align="left">
   <ul>
