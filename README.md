@@ -2,13 +2,6 @@
 <h3 align="center">I'm an AI/ML Enthusiast</h3>
 <h6>My mission is to bridge the gap between AI innovation and real-world impact—transforming businesses with practical, scalable machine learning solutions. I build intelligent systems that deliver measurable results, not just theoretical promise. Explore my GitHub to see AI in action, solving real problems with code that drives change."</h6>
 
-<p align="left">
-  <ul>
-    <li>📫 How to reach me: <a href="mailto:munshifmuhajireen@gmail.com">munshifmuhajireen@gmail.com</a> </li>
-    <li>⚡ Data Science Enthusiast</li>
-  </ul>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/munshifff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="munshif_twitter" height="30" width="40" /></a>
