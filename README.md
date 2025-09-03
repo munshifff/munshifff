@@ -6,11 +6,11 @@ Through my projects, I aim to demonstrate how **AI can solve real problems** and
 ---
 
 ## 🌐 Connect with Me:  
-📩 For quick contact: munshif.ai@gmail.com  
+📩 For quick contact: munshifmuhajireen@gmail.com  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munshifmuhajireen/)  
-[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/munshifff)  
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/munshifmuhajireen)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munshifmuhajireen/)  [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/munshifff)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/munshifmuhajireen)
+
+
 
 ---
 
@@ -22,7 +22,7 @@ Through my projects, I aim to demonstrate how **AI can solve real problems** and
 
 ---
 
-## 💰 Support My Work  
+## 💰 ☕ Feeling Generous? Buy Me a Coffee (or Don’t, Your Call) 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/munshif)  
 
 
