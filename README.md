@@ -1,31 +1,56 @@
-<h1 align="center">Hi 👋, I'm Munshif </h1>
-<h3 align="center">I'm an AI/ML Enthusiast</h3>
-<h6>My mission is to bridge the gap between AI innovation and real-world impact—transforming businesses with practical, scalable machine learning solutions. I build intelligent systems that deliver measurable results, not just theoretical promise. Explore my GitHub to see AI in action, solving real problems with code that drives change."</h6>
+# Hi 👋, I'm Munshif  
+🎯 An **AI/ML Enthusiast** with a passion for designing solutions that connect **research-driven AI** to **real-world value**.  
+I thrive at the intersection of **data, intelligence, and engineering**—turning ideas into systems that **scale, adapt, and make impact**.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/munshifff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="munshif_twitter" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/munshifmuhajireen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="munshif_linkedin" height="30" width="40" /></a>
-</p>
+💡 My approach:  
+- Build **intelligent applications** that solve real problems.  
+- Focus on **practical ML** — not just experiments, but results.  
+- Explore the synergy between **AI, cloud, and modern development**.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40"/> </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a>
-  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
- 
-  
-</p>
+---
 
+## 🌐 Let’s Connect  
+📬 Reach me directly: **munshif.ai@gmail.com**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/munshifmuhajireen/)  
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/munshifff)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/munshifmuhajireen)  
+
+---
+
+# 🛠️ My Toolbox  
+Technologies I use to bring AI systems to life:  
+
+### Core AI/ML  
+- 🐍 Python • 🔶 TensorFlow • 🔥 PyTorch • 🤖 scikit-learn • 📊 Matplotlib • 🧮 NumPy • 🐼 Pandas • 📈 Plotly • 🔬 SciPy • 🧪 Keras  
+
+### Backend & Databases  
+- ☕ Java • 💠 C++ • 🌀 Go • 📊 R  
+- 🗄️ MySQL • 🍃 MongoDB • 🐘 PostgreSQL  
+
+### DevOps & Infra  
+- 🐳 Docker • ☁️ AWS • 🔵 Azure • 🌐 Google Cloud • 🔒 Cloudflare • 🏗️ Apache  
+
+### Frontend & Visualization  
+- ⚛️ React.js • 📊 Power BI  
+
+### Collaboration & Versioning  
+- 🔗 Git • 🐙 GitHub  
+
+---
+
+## 🚀 Current Focus  
+- 🌍 Making AI-driven products **accessible and useful** for everyday businesses.  
+- 📡 Exploring **IoT + AI integrations**.  
+- 🔮 Experimenting with **Generative AI** and **RAG-based solutions**.  
+
+---
+
+## 💡 Philosophy  
+> "AI is only powerful when it moves beyond papers and into people’s lives."  
+
+---
+
+## ☕ Support My Journey  
+If you like what I build, fuel my creativity here:  
+[![BuyMeACoffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/munshif)  
